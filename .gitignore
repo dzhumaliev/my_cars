@@ -57,3 +57,14 @@ local.properties
 
 # VS Code
 .vscode/
+
+
+linux/flutter/
+linux/runner/
+windows/flutter/
+windows/runner/
+
+# Platforms
+linux/
+macos/
+windows/

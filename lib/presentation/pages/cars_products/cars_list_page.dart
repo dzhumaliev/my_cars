@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:my_cars/bloc/cars_item_bloc.dart';
+import 'package:my_cars/presentation/bloc/cars_item_bloc.dart';
 
 class CarsListPage extends StatelessWidget {
   const CarsListPage({super.key});
